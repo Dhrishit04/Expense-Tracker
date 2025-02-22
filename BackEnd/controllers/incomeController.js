@@ -1,6 +1,6 @@
 // Income logic
 
-const Income = require('..models/Income');
+const Income = require('../models/Income');
 
 exports.getIncome = async (req, res) => {
     try {
