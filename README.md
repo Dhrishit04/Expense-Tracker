@@ -12,7 +12,7 @@ A powerful **Expense Tracker** application built with **Node.js, Express, Sequel
 ---
 
 
-![demo-index](./public/img/demo.gif)
+<!-- ![demo-index](./public/img/demo.gif)-->
 
 
 ## ✨ Features
