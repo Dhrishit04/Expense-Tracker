@@ -11,6 +11,10 @@ A powerful **Expense Tracker** application built with **Node.js, Express, Sequel
 
 ---
 
+
+![demo-index](./public/img/demo.gif)
+
+
 ## ✨ Features
 ✔️ **User Authentication** – Secure login/register using JWT  
 ✔️ **Income Management** – Track and categorize income sources  
